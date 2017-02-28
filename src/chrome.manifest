@@ -37,6 +37,7 @@ override chrome://global/skin/devtools/tool-network.svg chrome://themeshim/skin/
 override chrome://global/skin/devtools/tool-options.svg chrome://themeshim/skin/devtools/tool-options.svg
 override chrome://global/skin/devtools/tool-storage.svg chrome://themeshim/skin/devtools/tool-storage.svg
 override chrome://global/skin/devtools/tool-styleeditor.svg chrome://themeshim/skin/devtools/tool-styleeditor.svg
+override chrome://global/skin/devtools/tool-webaudio.svg chrome://themeshim/skin/devtools/tool-webaudio.svg
 override chrome://global/skin/devtools/tool-webconsole.svg chrome://themeshim/skin/devtools/tool-webconsole.svg
 override chrome://global/skin/devtools/webaudioeditor.css chrome://themeshim/skin/devtools/webaudioeditor.css
 override chrome://global/skin/devtools/webconsole.css chrome://themeshim/skin/devtools/webconsole.css
