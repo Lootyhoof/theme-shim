@@ -19,373 +19,373 @@
 /* Padlocks */ 
 #padlock-ib[padshow="ib-trans-bg"][level="ev"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https-ev.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="ev"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="ev"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="high"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="high"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="high"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="low"],
 #padlock-ib[padshow="ib-trans-bg"][level="mixed"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-display.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="low"]:hover,
 #padlock-ib[padshow="ib-trans-bg"][level="mixed"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="low"]:hover:active,
 #padlock-ib[padshow="ib-trans-bg"][level="mixed"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="broken"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed.active") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="broken"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib[padshow="ib-trans-bg"][level="broken"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="ev"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https-ev.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="ev"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="ev"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="high"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="high"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="high"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="low"],
 #padlock-ib-left[padshow="ib-left"][level="mixed"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-display.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="low"]:hover,
 #padlock-ib-left[padshow="ib-left"][level="mixed"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="low"]:hover:active,
 #padlock-ib-left[padshow="ib-left"][level="mixed"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="broken"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-active.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="broken"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ib-left[padshow="ib-left"][level="broken"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  padding:2px!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  padding:2px !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="ev"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https-ev.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="ev"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="ev"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="high"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="high"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="high"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="low"],
 #padlock-ub-right[padshow="ub-right"][level="mixed"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-display.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="low"]:hover,
 #padlock-ub-right[padshow="ub-right"][level="mixed"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="low"]:hover:active,
 #padlock-ub-right[padshow="ub-right"][level="mixed"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="broken"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-active.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="broken"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-ub-right[padshow="ub-right"][level="broken"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="ev"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https-ev.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="ev"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="ev"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="high"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="high"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="high"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="low"],
 #padlock-sb[padshow="statbar"][level="mixed"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-display.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="low"]:hover,
 #padlock-sb[padshow="statbar"][level="mixed"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="low"]:hover:active,
 #padlock-sb[padshow="statbar"][level="mixed"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="broken"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-active.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="broken"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-sb[padshow="statbar"][level="broken"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="ev"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https-ev.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="ev"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="ev"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="high"] {
   list-style-image: url("chrome://browser/skin/identity-icons-https.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="high"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="high"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="low"],
 #padlock-tab[padshow="tabs-bar"][level="mixed"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-display.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="low"]:hover,
 #padlock-tab[padshow="tabs-bar"][level="mixed"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="low"]:hover:active,
 #padlock-tab[padshow="tabs-bar"][level="mixed"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="broken"] {
   list-style-image: url("chrome://browser/skin/identity-icons-mixed-active.png") !important;
-  -moz-image-region: rect(0px 16px 16px 0px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 16px 16px 0px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="broken"]:hover {
-  -moz-image-region: rect(0px 32px 16px 16px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 32px 16px 16px) !important;
+  background-color: transparent !important;
 }
 
 #padlock-tab[padshow="tabs-bar"][level="broken"]:hover:active {
-  -moz-image-region: rect(0px 48px 16px 32px)!important;
-  background-color: transparent!important;
+  -moz-image-region: rect(0px 48px 16px 32px) !important;
+  background-color: transparent !important;
 }
 
 /* History Menu Button */
 #history-menu-button {
-  list-style-image: url("chrome://browser/skin/Toolbar.png")!important;
-  -moz-image-region: rect(0, 126px, 18px, 108px)!important;
-  -moz-box-orient: horizontal!important;
+  list-style-image: url("chrome://browser/skin/Toolbar.png") !important;
+  -moz-image-region: rect(0, 126px, 18px, 108px) !important;
+  -moz-box-orient: horizontal !important;
 }
 
 /* Download location indicator */
 .downloadDisplayName {
-  font-weight: bold!important;
-  margin-bottom: 3px!important;
-  cursor: inherit!important;
+  font-weight: bold !important;
+  margin-bottom: 3px !important;
+  cursor: inherit !important;
 }
 
 /* Indicator for no downloads */
 #downloadsPanel[hasdownloads] > #emptyDownloads {
-  display: none!important;
+  display: none !important;
 }
 
 #emptyDownloads {
-  padding: 10px 20px!important;
-  max-width: 40ch!important;
+  padding: 10px 20px !important;
+  max-width: 40ch !important;
 }
 
 /* Windows 10 fixes */
@@ -399,7 +399,7 @@
      * the sidebar, then the accent color bleeds through in the titlebar
      * if the sidebar is open. */
     #browser {
-      -moz-appearance: -moz-win-exclude-glass !important;!important;
+      -moz-appearance: -moz-win-exclude-glass !important;
     }
     
     /* Draw XUL caption buttons and background on Win10 */
@@ -419,7 +419,7 @@
     }
 
     #tabbrowser-tabs {
-      min-height: 28px!important;
+      min-height: 28px !important;
     }
 
     #titlebar-buttonbox,
@@ -429,7 +429,7 @@
 
     .titlebar-button {
       display: inherit !important;
-      border: none!important;
+      border: none !important;
       margin: 0 !important;
       padding: 8px 17px !important;
       min-height: 28px !important;
