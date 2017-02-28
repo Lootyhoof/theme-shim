@@ -458,56 +458,56 @@
     }
 
     #titlebar-min {
-      list-style-image: url(caption-buttons.svg#minimize) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#minimize) !important;
     }
 
     #titlebar-max {
-      list-style-image: url(caption-buttons.svg#maximize) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#maximize) !important;
     }
 
     #main-window[sizemode="maximized"] #titlebar-max {
-      list-style-image: url(caption-buttons.svg#restore) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#restore) !important;
     }
 
     #titlebar-close {
-      list-style-image: url(caption-buttons.svg#close) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close) !important;
     }
     #titlebar-close:hover {
-      list-style-image: url(caption-buttons.svg#close-highlight) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-highlight) !important;
     }
 
      /* light persona */
     #titlebar-min:-moz-lwtheme-darktext {
-      list-style-image: url(caption-buttons.svg#minimize-outline) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#minimize-outline) !important;
       }
     #titlebar-max:-moz-lwtheme-darktext {
-      list-style-image: url(caption-buttons.svg#maximize-outline) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#maximize-outline) !important;
     }
     #main-window[sizemode="maximized"]:-moz-lwtheme-darktext #titlebar-max:-moz-lwtheme-darktext {
-      list-style-image: url(caption-buttons.svg#restore-outline) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#restore-outline) !important;
     }
     #titlebar-close:-moz-lwtheme-darktext {
-      list-style-image: url(caption-buttons.svg#close-outline) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-outline) !important;
     }
     #titlebar-close:hover:-moz-lwtheme-darktext {
-      list-style-image: url(caption-buttons.svg#close-outline) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-outline) !important;
     }
 
     /* dark persona */
     #titlebar-min:-moz-lwtheme-brighttext {
-      list-style-image: url(caption-buttons.svg#minimize-outline-inverted) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#minimize-outline-inverted) !important;
     }
     #titlebar-max:-moz-lwtheme-brighttext {
-      list-style-image: url(caption-buttons.svg#maximize-outline-inverted) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#maximize-outline-inverted) !important;
     }
     #main-window[sizemode="maximized"]:-moz-lwtheme-brighttext #titlebar-max:-moz-lwtheme-brighttext {
-      list-style-image: url(caption-buttons.svg#restore-outline-inverted) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#restore-outline-inverted) !important;
     }
     #titlebar-close:-moz-lwtheme-brighttext {
-      list-style-image: url(caption-buttons.svg#close-outline-inverted) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-outline-inverted) !important;
     }
     #titlebar-close:hover:-moz-lwtheme-brighttext {
-      list-style-image: url(caption-buttons.svg#close-outline-inverted) !important;
+      list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-outline-inverted) !important;
     }
     
     /* the 12px image renders a 10px icon, and the 10px upscaled gets rounded to 12.5, which
@@ -593,19 +593,19 @@
       }
 
       #titlebar-min:hover {
-        list-style-image: url(caption-buttons.svg#minimize-highlight) !important;
+        list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#minimize-highlight) !important;
       }
 
       #titlebar-max:hover {
-        list-style-image: url(caption-buttons.svg#maximize-highlight) !important;
+        list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#maximize-highlight) !important;
       }
 
       #main-window[sizemode="maximized"] #titlebar-max:hover {
-        list-style-image: url(caption-buttons.svg#restore-highlight) !important;
+        list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#restore-highlight) !important;
       }
 
       #titlebar-close:hover {
-        list-style-image: url(caption-buttons.svg#close-highlight) !important;
+        list-style-image: url(chrome://themeshim/skin/caption-buttons.svg#close-highlight) !important;
       }
     }
   }
