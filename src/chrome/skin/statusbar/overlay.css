@@ -38,12 +38,12 @@
 
 #status4evar-options-button
 {
-	list-style-image: url("pms24.png");
+	list-style-image: url("chrome://themeshim/skin/statusbar/pms24.png");
 }
 
 toolbar[iconsize="small"] #status4evar-options-button
 {
-	list-style-image: url("pms16.png");
+	list-style-image: url("chrome://themeshim/skin/statusbar/pms16.png");
 }
 
 /*
@@ -78,7 +78,7 @@ toolbar[mode="icons"] #status4evar-download-button[forcelabel="true"] > label
 
 #status4evar-download-progress-bar[pmType$="unknown"] > .progress-bar
 {
-	background-image: url("pulse.png");
+	background-image: url("chrome://themeshim/skin/statusbar/pulse.png");
 }
 
 #status4evar-download-notification-container
@@ -333,12 +333,12 @@ splitter.status4evar-status-splitter:not(:hover)
 
 #urlbar:not([s4esalign="left"]) .urlbar-over-link-box:-moz-locale-dir(ltr)
 {
-	background: url(urlbar-over-link-arrow.png) no-repeat left center;
+	background: url(chrome://themeshim/skin/statusbar/urlbar-over-link-arrow.png) no-repeat left center;
 }
 
 #urlbar:not([s4esalign="left"]) .urlbar-over-link-box:-moz-locale-dir(rtl)
 {
-	background: url(urlbar-over-link-arrow-rtl.png) no-repeat right center;
+	background: url(chrome://themeshim/skin/statusbar/urlbar-over-link-arrow-rtl.png) no-repeat right center;
 }
 
 /*
