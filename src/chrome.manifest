@@ -1,5 +1,7 @@
 skin themeshim classic/1.0 chrome/skin/
 
+style chrome://browser/content/browser.xul chrome://themeshim/skin/shim.css
+
 override chrome://browser/skin/statusbar/dynamic.css chrome://themeshim/skin/statusbar/dynamic.css
 override chrome://browser/skin/statusbar/overlay.css chrome://themeshim/skin/statusbar/overlay.css
 override chrome://browser/skin/statusbar/prefs.css chrome://themeshim/skin/statusbar/prefs.css

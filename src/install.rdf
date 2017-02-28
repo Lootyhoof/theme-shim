@@ -14,7 +14,6 @@
     <em:description>A set of compatibility fixes for non-supported themes on Pale Moon.</em:description>
     <em:creator>Lootyhoof</em:creator>
     <em:type>2</em:type>
-    <em:bootstrap>true</em:bootstrap>
     <em:internalName>themeshim</em:internalName>
 		
     <em:targetApplication>
