@@ -1,0 +1,44 @@
+skin themeshim classic/1.0 chrome/skin/
+
+override chrome://browser/skin/statusbar/dynamic.css chrome://themeshim/skin/statusbar/dynamic.css
+override chrome://browser/skin/statusbar/overlay.css chrome://themeshim/skin/statusbar/overlay.css
+override chrome://browser/skin/statusbar/prefs.css chrome://themeshim/skin/statusbar/prefs.css
+
+override chrome://global/skin/devtools/animationinspector.css chrome://themeshim/skin/devtools/animationinspector.css
+override chrome://global/skin/devtools/canvasdebugger.css chrome://themeshim/skin/devtools/canvasdebugger.css
+override chrome://global/skin/devtools/commandline.css chrome://themeshim/skin/devtools/commandline.css
+override chrome://global/skin/devtools/common.css chrome://themeshim/skin/devtools/common.css
+override chrome://global/skin/devtools/computedview.css chrome://themeshim/skin/devtools/computedview.css
+override chrome://global/skin/devtools/dark-theme.css chrome://themeshim/skin/devtools/dark-theme.css
+override chrome://global/skin/devtools/debugger.css chrome://themeshim/skin/devtools/debugger.css
+override chrome://global/skin/devtools/eyedropper.css chrome://themeshim/skin/devtools/eyedropper.css
+override chrome://global/skin/devtools/floating-scrollbars.css chrome://themeshim/skin/devtools/floating-scrollbars.css
+override chrome://global/skin/devtools/floating-scrollbars-light.css chrome://themeshim/skin/devtools/floating-scrollbars-light.css
+override chrome://global/skin/devtools/font-inspector.css chrome://themeshim/skin/devtools/font-inspector.css
+override chrome://global/skin/devtools/inspector.css chrome://themeshim/skin/devtools/inspector.css
+override chrome://global/skin/devtools/layoutview.css chrome://themeshim/skin/devtools/layoutview.css
+override chrome://global/skin/devtools/light-theme.css chrome://themeshim/skin/devtools/light-theme.css
+override chrome://global/skin/devtools/markup-view.css chrome://themeshim/skin/devtools/markup-view.css
+override chrome://global/skin/devtools/netmonitor.css chrome://themeshim/skin/devtools/netmonitor.css
+override chrome://global/skin/devtools/performance.css chrome://themeshim/skin/devtools/performance.css
+override chrome://global/skin/devtools/profiler.css chrome://themeshim/skin/devtools/profiler.css
+override chrome://global/skin/devtools/ruleview.css chrome://themeshim/skin/devtools/ruleview.css
+override chrome://global/skin/devtools/scratchpad.css chrome://themeshim/skin/devtools/scratchpad.css
+override chrome://global/skin/devtools/shadereditor.css chrome://themeshim/skin/devtools/shadereditor.css
+override chrome://global/skin/devtools/splitview.css chrome://themeshim/skin/devtools/splitview.css
+override chrome://global/skin/devtools/storage.css chrome://themeshim/skin/devtools/storage.css
+override chrome://global/skin/devtools/styleeditor.css chrome://themeshim/skin/devtools/styleeditor.css
+override chrome://global/skin/devtools/timeline.css chrome://themeshim/skin/devtools/timeline.css
+override chrome://global/skin/devtools/tool-debugger.svg chrome://themeshim/skin/devtools/tool-debugger.svg
+override chrome://global/skin/devtools/tool-inspector.svg chrome://themeshim/skin/devtools/tool-inspector.svg
+override chrome://global/skin/devtools/tool-network.svg chrome://themeshim/skin/devtools/tool-network.svg
+override chrome://global/skin/devtools/tool-options.svg chrome://themeshim/skin/devtools/tool-options.svg
+override chrome://global/skin/devtools/tool-storage.svg chrome://themeshim/skin/devtools/tool-storage.svg
+override chrome://global/skin/devtools/tool-styleeditor.svg chrome://themeshim/skin/devtools/tool-styleeditor.svg
+override chrome://global/skin/devtools/tool-webconsole.svg chrome://themeshim/skin/devtools/tool-webconsole.svg
+override chrome://global/skin/devtools/webaudioeditor.css chrome://themeshim/skin/devtools/webaudioeditor.css
+override chrome://global/skin/devtools/webconsole.css chrome://themeshim/skin/devtools/webconsole.css
+override chrome://global/skin/devtools/webconsole_networkpanel.css chrome://themeshim/skin/devtools/webconsole_networkpanel.css
+override chrome://global/skin/devtools/widgets.css chrome://themeshim/skin/devtools/widgets.css
+
+override chrome://global/skin/media/videocontrols.css chrome://themeshim/skin/media/videocontrols.css
