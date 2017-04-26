@@ -388,6 +388,11 @@
   max-width: 40ch !important;
 }
 
+/* Only show links on notification popups when a link is provided */
+.popup-notification-learnmore-link:not([href]) {
+  display: none !important;
+}
+
 /* Windows 10 fixes */
 @media (-moz-windows-compositor) {
   @media (-moz-os-version: windows-win10) {
